@@ -27,10 +27,6 @@ cd reflectra-ai-journal
 python -m venv .venv
 .\.venv\Scripts\activate
 
-
-<img width="1689" height="953" alt="image" src="https://github.com/user-attachments/assets/9d100b30-f373-4cbf-a46a-0d20b4ecad93" />
-
-
 # install deps
 pip install -r requirements.txt
 
