@@ -1,4 +1,4 @@
-# Reflectra · AI-Powered Wellness Journal 🪞
+# Reflectra : AI-Powered Wellness Journal 🪞
 
 Reflectra is a **privacy-first journaling app** powered by **local GenAI (Ollama)**.  
 It converts daily reflections into **summaries, affirmations, and micro-rituals** — stored safely in SQLite.  
