@@ -3,7 +3,7 @@
 Reflectra is a **privacy-first journaling app** powered by **local GenAI (Ollama)**.  
 It converts daily reflections into **summaries, affirmations, and micro-rituals** — stored safely in SQLite.  
 
-!image alt](https://github.com/vaishnavishetty19/reflectra-ai-journal/blob/53ff41e520e23e4ae1f95ef7064bfb0bb7bdf108/screenshot.PNG)
+![image alt](https://github.com/vaishnavishetty19/reflectra-ai-journal/blob/53ff41e520e23e4ae1f95ef7064bfb0bb7bdf108/screenshot.PNG)
 
 ### ✨ Features
 - 📝 Write reflections in a simple Streamlit interface  
