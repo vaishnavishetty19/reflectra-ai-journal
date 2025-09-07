@@ -1,4 +1,7 @@
 # ---------- Reflectra: AI-Powered Wellness Journal (compact) ----------
+# Copyright (c) 2025 Vaishnavi Shetty. All rights reserved.
+
+
 import json, re, sqlite3
 from datetime import datetime, timedelta, date
 import pandas as pd, streamlit as st, ollama
@@ -245,3 +248,4 @@ if page=="History":
             st.markdown("**Summary**");     st.write(row["summary"] or "_no summary_")
             st.markdown("**Affirmation**"); st.success(row["affirmation"] or "_no affirmation_")
             st.markdown("**Ritual**");      st.info(row["ritual"] or "_no ritual_")
+
